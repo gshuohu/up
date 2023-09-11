@@ -13,7 +13,7 @@ build:
     - 386
   ignore:
     - goos: darwin
-      goarch: 386
+      goarch: 388
 changelog:
   sort: asc
   filters:
